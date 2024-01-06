@@ -30,7 +30,7 @@ function Navbar() {
                   : "navbarListItemName"
               }
             >
-              Explore
+              Explore Now
             </p>
           </li>
           <li className="navbarListItem" onClick={() => navigate("/offers")}>
